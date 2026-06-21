@@ -1,5 +1,4 @@
 # AI Learning Journey
-
 Documenting my 6-month path to learning LLMs, RAG, AI agents, MCP, and how to build AI products — starting from basic Python.
 
 ## Structure
@@ -11,7 +10,13 @@ Documenting my 6-month path to learning LLMs, RAG, AI agents, MCP, and how to bu
 - `month-6/` — Full product build & deployment
 
 ## Progress Log
-Daily notes on what I built, what broke, and what I learned.
+
+### Week 1 — Python Refresher + Foundations
+- Reviewed core Python: functions, dicts, classes
+- Built a GitHub API summary tool (`requests`, JSON, error handling)
+- Implemented environment variables (`.env`) and proper error handling (try/except/else/finally)
+- Learned async/await basics with `asyncio`
+- Built a CLI word counter tool — reads a text file, counts word frequency, finds top N words, saves results to JSON
 
 ## Tech Stack
 Python, Anthropic API, ChromaDB, FastAPI, Streamlit, SQLite, Next.js, MCP SDK
