@@ -1,0 +1,46 @@
+{
+    "total unique_words": 33,
+    "total_words": 41,
+    "top_words": [
+        {
+            "word": "and",
+            "count": 4
+        },
+        {
+            "word": "ai",
+            "count": 2
+        },
+        {
+            "word": "is",
+            "count": 2
+        },
+        {
+            "word": "artificial",
+            "count": 2
+        },
+        {
+            "word": "intelligence",
+            "count": 2
+        },
+        {
+            "word": "that",
+            "count": 2
+        },
+        {
+            "word": "open",
+            "count": 1
+        },
+        {
+            "word": "an",
+            "count": 1
+        },
+        {
+            "word": "research",
+            "count": 1
+        },
+        {
+            "word": "deployment",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Anthropic",
+    "public_repos": 90,
+    "followers": 70409,
+    "following": 0
+  },
+  {
+    "name": "The Octocat",
+    "public_repos": 8,
+    "followers": 23000,
+    "following": 9
+  },
+  {
+    "name": "Linus Torvalds",
+    "public_repos": 12,
+    "followers": 307681,
+    "following": 0
+  }
+]
